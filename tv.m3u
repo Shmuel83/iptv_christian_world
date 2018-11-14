@@ -255,7 +255,10 @@ rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
 http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.isramedia.net/images/users/2/e22e117340334a27a903d45f15eaa43f.png" group-title="israel TV",כאן 11
-http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+https://kanlive.akamaized.net/kan11/smil:kan11_mp4.smil/chunklist_b696000.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1044555891759099905/_-6C-UiM_400x400.jpg",כאן חינוכית
+https://kanlive.akamaized.net/kan23/smil:kan23_mp4.smil/chunklist_b696000.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Keshet_12.png/revision/latest/scale-to-width-down/200?cb=20170916224909" group-title="israel TV",קשת 12
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15988.ts
@@ -267,16 +270,16 @@ https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=%2f*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36&Cookie=hdntl%3Dexp%3D1521305784%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea;_alid_%3DYrk%2B1GiREjTrEWpIW8Vc7Q%3D%3D
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Knesset.jpg/revision/latest?cb=20150407013941" group-title="israel TV",כנסת 99
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2359.ts
+https://w1.013.gostreaming.tv/Knesset/myStream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/568452154499674112/3NQRmcjH_400x400.jpeg" group-title="israel TV", הידברות
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/2003.ts
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/af/a6/bf/afa6bf70-d8e4-26eb-8a77-139e73c82ef9/AppIcon-3-1x_U007emarketing-85-220-6.png/246x0w.jpg" group-title="israel TV", קבלה
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/15990.ts
+https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/MeKan_33_logo_2017.png/220px-MeKan_33_logo_2017.png", מכאן 33
-rtmp://ipbc-s.vidnt.com/ipbc_IPBCmakantvLVMRepeat/IPBCmakantvLVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+https://kanlive.akamaized.net/makantv/smil:makantv_mp4.smil/chunklist_b696000.m3u8
 
 
 
